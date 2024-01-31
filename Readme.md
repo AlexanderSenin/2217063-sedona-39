@@ -2,7 +2,7 @@
 
 * Студент: [Александр Сенин](https://up.htmlacademy.ru/htmlcss/39/user/2217063).
 * Наставник: [Виктор Рыбаков](https://htmlacademy.ru/profile/viktor-rybakov).
-
+* Сайт: [Мой проект Седона](https://alexandersenin.github.io/2217063-sedona-39/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
